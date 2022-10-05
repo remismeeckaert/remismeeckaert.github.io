@@ -117,4 +117,8 @@ comments:
     issue_term: "pathname"
     label: "comment" # Optional - must be existing label.
 
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-VZ4EC01207"
+    anonymize_ip: false # default
