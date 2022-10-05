@@ -16,7 +16,7 @@ toc_icon: "heart"
 
 | Site            | Description | Lien                                                                                                                                                                                                         |
 | --------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Aymeric Lefeyer |             | [https://aymeric-le-feyer.notion.site/aymeric-le-feyer/Blog-f991d41d9bef430ba1a393a308120655](https://aymeric-le-feyer.notion.site/aymeric-le-feyer/Blog-f991d41d9bef430ba1a393a308120655){:target="_blank"} |
+| Aymeric Lefeyer |             | [blog.aymeric.lefeyer.fr](blog.aymeric.lefeyer.fr){:target="_blank"} |
 | Stéphane Robert | Blog devOps | [https://blog.stephane-robert.info/about/](https://blog.stephane-robert.info/about/){:target="_blank"}                                                                                                       |
  
 
